@@ -1,0 +1,28 @@
+******************************
+* Lab 1a Synthesis Questions *
+******************************
+Name(s): Lanting Lu 
+NetID(s): llu3
+
+
+-----------------------------------------------------------
+1) Steps:
+Firstly, since different types can have different sizes and representations, we should cast both pointers to "char*" type to make sure the pointer arithmetic operations in byte. Then, we subtract the pointers, each move in this process is counted as one byte.
+
+
+-----------------------------------------------------------
+2) Explain:
+
+When the parameters of a function are pointers, what is actually passed are the memory addresses of the original integer variables. This allows the function to get and modify the values of these variables via the pointers. We have the pointers, we can alter the values at the memory locations they point to, thereby achieving our goal. However, if the parameters are integers, the function will treat these two integers as copies, and all subsequent operations will be on these copies, which cannont change the original variables.
+
+-----------------------------------------------------------
+3) Positive and Drawback:
+Positive: I think that for beginners, courses that focus more on imparting fundamental programming concepts are better. Memory management and pointers are relatively abstract, whereas the data types encountered in Java are relatively easier to understand. Thus, in the intro classes, I had a good understanding of programming languages without getting bogged down in such foundational knowledge.
+
+Drawback: The lack of early exposure to pointers has led to a lack in my understanding of the memory. So far, I've realized that pointers are crucial for directly managing and comprehending memory allocation, which significantly impacts the overall program performance, like in terms of system execution speed. Enhancing my knowledge of operating systems could improve my capability in the areas of system development, computer engineering, and so on
+
+
+-----------------------------------------------------------
+
+
+
