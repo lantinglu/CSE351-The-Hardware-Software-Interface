@@ -1,8 +1,8 @@
 /*
  * CSE 351 Lab 1b (Manipulating Bits in C)
  *
- * Name(s): Lanting Lu 
- * NetID(s): llu3
+ * Name(s): 
+ * NetID(s): 
  *
  * ----------------------------------------------------------------------------
  * Overview
