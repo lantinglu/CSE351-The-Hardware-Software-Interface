@@ -1,8 +1,8 @@
 /*
  * CSE 351 Lab 1b (Manipulating Bits in C)
  *
- * Name(s): Lanting Lu  
- * NetID(s): llu3
+ * Name(s): 
+ * NetID(s): 
  *
  * This is a file for managing a store of various aisles, represented by an
  * array of 64-bit integers. See aisle_manager.c for details on the aisle
